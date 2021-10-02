@@ -1,1 +1,1 @@
-# Deep_Learning_A-Z_Hands-On_Artificial_Neural_Networks
+# [Deep Learning A-Z™: Hands-On Artificial Neural Networks](https://www.udemy.com/course/deeplearning/)
